@@ -1,0 +1,21 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="RIGHT_MARGIN" value="300" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+    <option name="FORMATTER_TAGS_ENABLED" value="true" />
+    <SqlCodeStyleSettings version="6">
+      <option name="KEYWORD_CASE" value="2" />
+      <option name="IDENTIFIER_CASE" value="1" />
+      <option name="TYPE_CASE" value="1" />
+      <option name="QUERY_IN_ONE_STRING" value="3" />
+      <option name="SELECT_EL_WRAP" value="3" />
+      <option name="FROM_EL_WRAP" value="3" />
+      <option name="WHERE_EL_WRAP" value="3" />
+    </SqlCodeStyleSettings>
+    <codeStyleSettings language="JSON">
+      <option name="RIGHT_MARGIN" value="200" />
+      <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+      <option name="WRAP_ON_TYPING" value="1" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>

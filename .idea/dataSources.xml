@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="staging" group="Local" uuid="c5e43fb7-a3ab-4cce-bb65-bac3b61facb2">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://cmouli-PC:3306</jdbc-url>
+      <driver-properties>
+        <property name="autoReconnect" value="true" />
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+      </driver-properties>
+      <auto-close timeout="0" />
+      <time-zone>UTC</time-zone>
+    </data-source>
+    <data-source source="LOCAL" name="localhost" group="Local" uuid="1ca99466-b259-4a44-8bd0-805d35613666">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="UTC" />
+      </driver-properties>
+      <time-zone>UTC</time-zone>
+    </data-source>
+    <data-source source="LOCAL" name="MySQL - test_db@camplegal-qa-db.mysql.database.azure.com" group="AWS Staging" uuid="761a775f-0466-4555-a0c7-4cf7f73bceb9">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://camplegal-qa-db.mysql.database.azure.com:3306/test_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="aws-staging-camplegal-databse" group="AWS Staging" uuid="7ea4928f-7444-4601-921d-24c703956c2f">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>Test Environment.</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://qa-camplegal-db.cluster-cv8yx9kaprjg.us-east-2.rds.amazonaws.com:3306/camplegal_qa_db</jdbc-url>
+      <vm-options>-Djava.security.properties=/Users/cmouli/software/custom.java.security</vm-options>
+      <time-zone>UTC</time-zone>
+    </data-source>
+    <data-source source="LOCAL" name="camplegal-azure-db@camplegal-azure-db.database.windows.net" group="Azure/Archive" uuid="45878178-47b7-4579-9aa7-f87692c67e6a">
+      <driver-ref>azure.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>Customer onboarding database</remarks>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://camplegal-azure-db.database.windows.net:1433;database=camplegal-azure-db;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="karen-winston-db" group="Azure/Archive" uuid="f0cd1f91-0921-428d-ab1a-55d961ee30b2">
+      <driver-ref>azure.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>Customer onboarding database</remarks>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://karenwinston.database.windows.net:1433;database=karen-winston-db;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="docker-camplegal-db" group="Local" uuid="fe1b76e6-139f-4f3b-99d9-832f05ae1dad">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>Local Docker MySql</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://0.0.0.0:3307</jdbc-url>
+      <time-zone>UTC</time-zone>
+    </data-source>
+    <data-source source="LOCAL" name="laura-fernandez-db" group="Azure/Archive" uuid="baa7be13-cf99-4976-be4d-e17cbe150150">
+      <driver-ref>azure.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>Customer onboarding database</remarks>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://camplegal-azure-db.database.windows.net:1433;database=laura-fenandez-db;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="aws-staging-camplegal-databse-READONLY" group="AWS Staging" uuid="772e20c6-081a-4ddd-8126-3cc9acd1b313">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://qa-camplegal-db.cluster-cv8yx9kaprjg.us-east-2.rds.amazonaws.com:3306/</jdbc-url>
+      <time-zone>UTC</time-zone>
+    </data-source>
+    <data-source source="LOCAL" name="jean-kim-law" group="Azure/Archive" uuid="89282f5c-31a1-41e4-aad6-ad5a40d227e5">
+      <driver-ref>azure.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>Customer onboarding database</remarks>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://camplegal-jean-kim-law.database.windows.net:1433;database=jean_kim_law_db;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="LaydeImmigration" group="Azure/Archive" uuid="06859edd-6675-4401-a37e-e3af4b0309fa">
+      <driver-ref>azure.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://lay-del.database.windows.net:1433;database=LaydeImmigration22;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="karen2.database.windows.net" group="Azure/Archive" uuid="10168128-441b-4e33-8eed-d61b1c82dac7">
+      <driver-ref>azure.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <rewrite-bounds>false</rewrite-bounds>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://karen2.database.windows.net:1433;database=karen2;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="eCMS_88776_kwinstonlaw@karen3.database.windows.net" group="Azure/Archive" uuid="da58872a-2dc9-40a0-99b3-83ecb5e5ac2e">
+      <driver-ref>azure.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://karen3.database.windows.net:1433;database=eCMS_88776_kwinstonlaw;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>

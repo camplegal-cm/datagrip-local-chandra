@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45d706ed-ca96-444d-b6cf-5b4068c14ba4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa/entities/entities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa/entities/entities.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa/entities/entities.dat.values" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa/entities/entities.dat.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa/entities/entities.dat.values.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa/entities/entities.dat_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa/entities/entities.dat_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa/storage_v2/_src_/database/LaydeImmigration.5Yw8Pw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa/storage_v2/_src_/database/LaydeImmigration.5Yw8Pw/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa/storage_v2/_src_/database/LaydeImmigration.5Yw8Pw/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa/storage_v2/_src_/database/LaydeImmigration.5Yw8Pw/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa/storage_v2/_src_/database/LaydeImmigration22.5e1MYg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa/storage_v2/_src_/database/LaydeImmigration22.5e1MYg/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa/storage_v2/_src_/database/LaydeImmigration22.5e1MYg/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa/storage_v2/_src_/database/LaydeImmigration22.5e1MYg/schema/dbo.sYMBAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa/storage_v2/_src_/database/LaydeImmigration22.5e1MYg/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa/storage_v2/_src_/database/master.YiqNvw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa/storage_v2/_src_/database/master.YiqNvw/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/06859edd-6675-4401-a37e-e3af4b0309fa/storage_v2/_src_/database/master.YiqNvw/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10168128-441b-4e33-8eed-d61b1c82dac7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10168128-441b-4e33-8eed-d61b1c82dac7/storage_v2/_src_/database/karen2.Tc0ivA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10168128-441b-4e33-8eed-d61b1c82dac7/storage_v2/_src_/database/karen2.Tc0ivA/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10168128-441b-4e33-8eed-d61b1c82dac7/storage_v2/_src_/database/karen2.Tc0ivA/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10168128-441b-4e33-8eed-d61b1c82dac7/storage_v2/_src_/database/karen2.Tc0ivA/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10168128-441b-4e33-8eed-d61b1c82dac7/storage_v2/_src_/database/karen2.Tc0ivA/schema/db_datareader.To823g.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10168128-441b-4e33-8eed-d61b1c82dac7/storage_v2/_src_/database/karen2.Tc0ivA/schema/db_datawriter._tp55w.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10168128-441b-4e33-8eed-d61b1c82dac7/storage_v2/_src_/database/karen2.Tc0ivA/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10168128-441b-4e33-8eed-d61b1c82dac7/storage_v2/_src_/database/karen2.Tc0ivA/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10168128-441b-4e33-8eed-d61b1c82dac7/storage_v2/_src_/database/karen2.Tc0ivA/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10168128-441b-4e33-8eed-d61b1c82dac7/storage_v2/_src_/database/karen2.Tc0ivA/schema/db_owner.souIfA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10168128-441b-4e33-8eed-d61b1c82dac7/storage_v2/_src_/database/karen2.Tc0ivA/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10168128-441b-4e33-8eed-d61b1c82dac7/storage_v2/_src_/database/karen2.Tc0ivA/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10168128-441b-4e33-8eed-d61b1c82dac7/storage_v2/_src_/database/karen2.Tc0ivA/schema/guest.2C3iBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10168128-441b-4e33-8eed-d61b1c82dac7/storage_v2/_src_/database/karen2.Tc0ivA/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10168128-441b-4e33-8eed-d61b1c82dac7/storage_v2/_src_/database/master.YiqNvw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10168128-441b-4e33-8eed-d61b1c82dac7/storage_v2/_src_/database/master.YiqNvw/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10168128-441b-4e33-8eed-d61b1c82dac7/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10168128-441b-4e33-8eed-d61b1c82dac7/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/10168128-441b-4e33-8eed-d61b1c82dac7/storage_v2/_src_/database/master.YiqNvw/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/entities/entities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/entities/entities.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/entities/entities.dat.values" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/entities/entities.dat.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/entities/entities.dat.values.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/entities/entities.dat_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/entities/entities.dat_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/storage_v2/_src_/schema/camplegal-db.k5WwrA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/storage_v2/_src_/schema/camplegal_qa_db.5ppYbw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/storage_v2/_src_/schema/camplegal_qa_db.5ppYbw.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/storage_v2/_staging_/schema/camplegal_qa_db.5ppYbw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/storage_v2/_staging_/schema/camplegal_qa_db.5ppYbw/routine/p_dup_answer_fix.VGh7_w.base.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/storage_v2/_staging_/schema/camplegal_qa_db.5ppYbw/routine/p_dup_answer_fix.VGh7_w.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/storage_v2/_staging_/schema/camplegal_qa_db.5ppYbw/routine/p_dup_answer_fix.VGh7_w.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/storage_v2/_staging_/schema/camplegal_qa_db.5ppYbw/routine/p_load_custom_lists.guIw-w.base.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/storage_v2/_staging_/schema/camplegal_qa_db.5ppYbw/routine/p_load_custom_lists.guIw-w.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/storage_v2/_staging_/schema/camplegal_qa_db.5ppYbw/routine/p_load_custom_lists.guIw-w.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/storage_v2/_staging_/schema/camplegal_qa_db.5ppYbw/routine/proc_channel_notification_staging.C2Y93A.base.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/storage_v2/_staging_/schema/camplegal_qa_db.5ppYbw/routine/proc_channel_notification_staging.C2Y93A.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/storage_v2/_staging_/schema/camplegal_qa_db.5ppYbw/routine/proc_channel_notification_staging.C2Y93A.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/storage_v2/_staging_/schema/camplegal_qa_db.5ppYbw/routine/proc_copy_contact_addresses.U-Wzsg.base.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/storage_v2/_staging_/schema/camplegal_qa_db.5ppYbw/routine/proc_copy_contact_addresses.U-Wzsg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ca99466-b259-4a44-8bd0-805d35613666/storage_v2/_staging_/schema/camplegal_qa_db.5ppYbw/routine/proc_copy_contact_addresses.U-Wzsg.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/45878178-47b7-4579-9aa7-f87692c67e6a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/45878178-47b7-4579-9aa7-f87692c67e6a/entities/entities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/45878178-47b7-4579-9aa7-f87692c67e6a/entities/entities.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/45878178-47b7-4579-9aa7-f87692c67e6a/entities/entities.dat.values" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/45878178-47b7-4579-9aa7-f87692c67e6a/entities/entities.dat.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/45878178-47b7-4579-9aa7-f87692c67e6a/entities/entities.dat.values.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/45878178-47b7-4579-9aa7-f87692c67e6a/entities/entities.dat_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/45878178-47b7-4579-9aa7-f87692c67e6a/entities/entities.dat_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/45878178-47b7-4579-9aa7-f87692c67e6a/storage_v2/_src_/database/camplegal-azure-db.0fluVQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/45878178-47b7-4579-9aa7-f87692c67e6a/storage_v2/_src_/database/camplegal-azure-db.0fluVQ/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/45878178-47b7-4579-9aa7-f87692c67e6a/storage_v2/_src_/database/camplegal-azure-db.0fluVQ/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/45878178-47b7-4579-9aa7-f87692c67e6a/storage_v2/_src_/database/camplegal-azure-db.0fluVQ/schema/dbo.sYMBAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/45878178-47b7-4579-9aa7-f87692c67e6a/storage_v2/_src_/database/camplegal-azure-db.0fluVQ/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/761a775f-0466-4555-a0c7-4cf7f73bceb9/entities/entities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/761a775f-0466-4555-a0c7-4cf7f73bceb9/entities/entities.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/761a775f-0466-4555-a0c7-4cf7f73bceb9/entities/entities.dat.values" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/761a775f-0466-4555-a0c7-4cf7f73bceb9/entities/entities.dat.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/761a775f-0466-4555-a0c7-4cf7f73bceb9/entities/entities.dat.values.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/761a775f-0466-4555-a0c7-4cf7f73bceb9/entities/entities.dat_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/761a775f-0466-4555-a0c7-4cf7f73bceb9/entities/entities.dat_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/761a775f-0466-4555-a0c7-4cf7f73bceb9/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/761a775f-0466-4555-a0c7-4cf7f73bceb9/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/761a775f-0466-4555-a0c7-4cf7f73bceb9/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/761a775f-0466-4555-a0c7-4cf7f73bceb9/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/772e20c6-081a-4ddd-8126-3cc9acd1b313.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/772e20c6-081a-4ddd-8126-3cc9acd1b313/entities/entities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/772e20c6-081a-4ddd-8126-3cc9acd1b313/entities/entities.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/772e20c6-081a-4ddd-8126-3cc9acd1b313/entities/entities.dat.values" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/772e20c6-081a-4ddd-8126-3cc9acd1b313/entities/entities.dat.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/772e20c6-081a-4ddd-8126-3cc9acd1b313/entities/entities.dat.values.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/772e20c6-081a-4ddd-8126-3cc9acd1b313/entities/entities.dat_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/772e20c6-081a-4ddd-8126-3cc9acd1b313/entities/entities.dat_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/772e20c6-081a-4ddd-8126-3cc9acd1b313/storage_v2/_src_/schema/camplegal_qa_db.5ppYbw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/772e20c6-081a-4ddd-8126-3cc9acd1b313/storage_v2/_src_/schema/camplegal_qa_db.5ppYbw.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/772e20c6-081a-4ddd-8126-3cc9acd1b313/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/772e20c6-081a-4ddd-8126-3cc9acd1b313/storage_v2/_src_/schema/mysql.osA4Bg.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7ea4928f-7444-4601-921d-24c703956c2f.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7ea4928f-7444-4601-921d-24c703956c2f/entities/entities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7ea4928f-7444-4601-921d-24c703956c2f/entities/entities.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7ea4928f-7444-4601-921d-24c703956c2f/entities/entities.dat.values" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7ea4928f-7444-4601-921d-24c703956c2f/entities/entities.dat.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7ea4928f-7444-4601-921d-24c703956c2f/entities/entities.dat.values.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7ea4928f-7444-4601-921d-24c703956c2f/entities/entities.dat_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7ea4928f-7444-4601-921d-24c703956c2f/entities/entities.dat_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7ea4928f-7444-4601-921d-24c703956c2f/storage_v2/_src_/schema/camplegal_qa_db.5ppYbw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7ea4928f-7444-4601-921d-24c703956c2f/storage_v2/_src_/schema/camplegal_qa_db.5ppYbw.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7ea4928f-7444-4601-921d-24c703956c2f/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7ea4928f-7444-4601-921d-24c703956c2f/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7ea4928f-7444-4601-921d-24c703956c2f/storage_v2/_src_/schema/mysql.osA4Bg.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7ea4928f-7444-4601-921d-24c703956c2f/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7ea4928f-7444-4601-921d-24c703956c2f/storage_v2/_src_/schema/sys.zb4BAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/entities/entities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/entities/entities.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/entities/entities.dat.values" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/entities/entities.dat.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/entities/entities.dat.values.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/entities/entities.dat_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/entities/entities.dat_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/jean_kim_law_db.oiEhxQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/jean_kim_law_db.oiEhxQ/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/jean_kim_law_db.oiEhxQ/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/jean_kim_law_db.oiEhxQ/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/jean_kim_law_db.oiEhxQ/schema/db_datareader.To823g.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/jean_kim_law_db.oiEhxQ/schema/db_datawriter._tp55w.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/jean_kim_law_db.oiEhxQ/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/jean_kim_law_db.oiEhxQ/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/jean_kim_law_db.oiEhxQ/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/jean_kim_law_db.oiEhxQ/schema/db_owner.souIfA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/jean_kim_law_db.oiEhxQ/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/jean_kim_law_db.oiEhxQ/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/jean_kim_law_db.oiEhxQ/schema/dbo.sYMBAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/jean_kim_law_db.oiEhxQ/schema/guest.2C3iBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/jean_kim_law_db.oiEhxQ/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/master.YiqNvw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/master.YiqNvw/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/master.YiqNvw/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/master.YiqNvw/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/master.YiqNvw/schema/db_datareader.To823g.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/master.YiqNvw/schema/db_datawriter._tp55w.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/master.YiqNvw/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/master.YiqNvw/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/master.YiqNvw/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/master.YiqNvw/schema/db_owner.souIfA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/master.YiqNvw/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/master.YiqNvw/schema/guest.2C3iBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/89282f5c-31a1-41e4-aad6-ad5a40d227e5/storage_v2/_src_/database/master.YiqNvw/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/baa7be13-cf99-4976-be4d-e17cbe150150.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/baa7be13-cf99-4976-be4d-e17cbe150150/entities/entities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/baa7be13-cf99-4976-be4d-e17cbe150150/entities/entities.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/baa7be13-cf99-4976-be4d-e17cbe150150/entities/entities.dat.values" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/baa7be13-cf99-4976-be4d-e17cbe150150/entities/entities.dat.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/baa7be13-cf99-4976-be4d-e17cbe150150/entities/entities.dat.values.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/baa7be13-cf99-4976-be4d-e17cbe150150/entities/entities.dat_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/baa7be13-cf99-4976-be4d-e17cbe150150/entities/entities.dat_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/baa7be13-cf99-4976-be4d-e17cbe150150/storage_v2/_src_/database/laura-fenandez-db.sKwFEQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/baa7be13-cf99-4976-be4d-e17cbe150150/storage_v2/_src_/database/laura-fenandez-db.sKwFEQ/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/baa7be13-cf99-4976-be4d-e17cbe150150/storage_v2/_src_/database/laura-fenandez-db.sKwFEQ/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/baa7be13-cf99-4976-be4d-e17cbe150150/storage_v2/_src_/database/laura-fenandez-db.sKwFEQ/schema/dbo.sYMBAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/baa7be13-cf99-4976-be4d-e17cbe150150/storage_v2/_src_/database/laura-fenandez-db.sKwFEQ/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5e43fb7-a3ab-4cce-bb65-bac3b61facb2/entities/entities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5e43fb7-a3ab-4cce-bb65-bac3b61facb2/entities/entities.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5e43fb7-a3ab-4cce-bb65-bac3b61facb2/entities/entities.dat.values" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5e43fb7-a3ab-4cce-bb65-bac3b61facb2/entities/entities.dat.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5e43fb7-a3ab-4cce-bb65-bac3b61facb2/entities/entities.dat.values.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5e43fb7-a3ab-4cce-bb65-bac3b61facb2/entities/entities.dat_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5e43fb7-a3ab-4cce-bb65-bac3b61facb2/entities/entities.dat_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5e43fb7-a3ab-4cce-bb65-bac3b61facb2/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c5e43fb7-a3ab-4cce-bb65-bac3b61facb2/storage_v2/_src_/schema/sys.zb4BAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/da58872a-2dc9-40a0-99b3-83ecb5e5ac2e.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/da58872a-2dc9-40a0-99b3-83ecb5e5ac2e/storage_v2/_src_/database/eCMS_88776_kwinstonlaw.rad_cw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/da58872a-2dc9-40a0-99b3-83ecb5e5ac2e/storage_v2/_src_/database/eCMS_88776_kwinstonlaw.rad_cw/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/da58872a-2dc9-40a0-99b3-83ecb5e5ac2e/storage_v2/_src_/database/eCMS_88776_kwinstonlaw.rad_cw/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/da58872a-2dc9-40a0-99b3-83ecb5e5ac2e/storage_v2/_src_/database/eCMS_88776_kwinstonlaw.rad_cw/schema/dbo.sYMBAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/da58872a-2dc9-40a0-99b3-83ecb5e5ac2e/storage_v2/_src_/database/eCMS_88776_kwinstonlaw.rad_cw/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f0cd1f91-0921-428d-ab1a-55d961ee30b2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f0cd1f91-0921-428d-ab1a-55d961ee30b2/entities/entities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f0cd1f91-0921-428d-ab1a-55d961ee30b2/entities/entities.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f0cd1f91-0921-428d-ab1a-55d961ee30b2/entities/entities.dat.values" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f0cd1f91-0921-428d-ab1a-55d961ee30b2/entities/entities.dat.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f0cd1f91-0921-428d-ab1a-55d961ee30b2/entities/entities.dat.values.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f0cd1f91-0921-428d-ab1a-55d961ee30b2/entities/entities.dat_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f0cd1f91-0921-428d-ab1a-55d961ee30b2/entities/entities.dat_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f0cd1f91-0921-428d-ab1a-55d961ee30b2/storage_v2/_src_/database/karen-winston-db.V-W8DQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f0cd1f91-0921-428d-ab1a-55d961ee30b2/storage_v2/_src_/database/karen-winston-db.V-W8DQ/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f0cd1f91-0921-428d-ab1a-55d961ee30b2/storage_v2/_src_/database/karen-winston-db.V-W8DQ/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f0cd1f91-0921-428d-ab1a-55d961ee30b2/storage_v2/_src_/database/karen-winston-db.V-W8DQ/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fe1b76e6-139f-4f3b-99d9-832f05ae1dad.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fe1b76e6-139f-4f3b-99d9-832f05ae1dad/entities/entities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fe1b76e6-139f-4f3b-99d9-832f05ae1dad/entities/entities.dat.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fe1b76e6-139f-4f3b-99d9-832f05ae1dad/entities/entities.dat.values" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fe1b76e6-139f-4f3b-99d9-832f05ae1dad/entities/entities.dat.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fe1b76e6-139f-4f3b-99d9-832f05ae1dad/entities/entities.dat.values.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fe1b76e6-139f-4f3b-99d9-832f05ae1dad/entities/entities.dat_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fe1b76e6-139f-4f3b-99d9-832f05ae1dad/entities/entities.dat_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fe1b76e6-139f-4f3b-99d9-832f05ae1dad/storage_v2/_src_/schema/camplegal_qa_db.5ppYbw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fe1b76e6-139f-4f3b-99d9-832f05ae1dad/storage_v2/_src_/schema/camplegal_qa_db.5ppYbw.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fe1b76e6-139f-4f3b-99d9-832f05ae1dad/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fe1b76e6-139f-4f3b-99d9-832f05ae1dad/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fe1b76e6-139f-4f3b-99d9-832f05ae1dad/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fe1b76e6-139f-4f3b-99d9-832f05ae1dad/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test@Local.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/private/code/test/DB/release-3.20-visa-bulletin-feature.sql" afterDir="false" />
+      <change afterPath="$USER_HOME$/private/code/test/commons/src/main/java/com/test/commons/service/VisaBulletinJournalService.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/VisaBulletinJournalServiceTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/private/code/test/core/src/main/java/com/test/commons/domain/VisaBulletinEntry.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/private/code/test/core/src/main/java/com/test/commons/domain/enums/EntryType.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/private/code/test/core/src/main/java/com/test/commons/domain/enums/Priority.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/private/code/test/core/src/main/java/com/test/commons/domain/enums/VisaBulletinEntryCategory.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/private/code/test/core/src/main/java/com/test/commons/repository/VisaBulletinEntryRepository.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/private/code/test/jobs/src/main/java/com/test/jobs/service/VisaBulletinJob.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/private/code/test/jobs/src/test/java/VisaBulletinJobTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/main/.idea/compiler.xml" beforeDir="false" afterPath="$USER_HOME$/private/code/main/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/pom.xml" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/pom.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/main/java/com/test/commons/service/DocumentWatchService.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/main/java/com/test/commons/service/DocumentWatchService.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/main/java/com/test/commons/service/LawPayEventProcessingService.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/main/java/com/test/commons/service/LawPayEventProcessingService.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/main/java/com/test/commons/util/BaseSpringTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/main/java/com/test/commons/util/BaseSpringTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/main/resources/application-jobs.properties" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/main/resources/application-jobs.properties" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/main/resources/application.properties" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/UtilTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/UtilTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/AddendumServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/AddendumServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/AnswerServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/AnswerServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/AutoFillMethodsTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/AutoFillMethodsTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/CasePreparerTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/CasePreparerTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/CaseServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/CaseServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/DetailedPersonServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/DetailedPersonServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/FamilyServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/FamilyServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/FormServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/FormServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/GoogleEventServiceTimeRelatedTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/GoogleEventServiceTimeRelatedTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/InstallmentCalculatorServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/InstallmentCalculatorServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/InvoiceLineItemTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/InvoiceLineItemTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/InvoiceSearchServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/InvoiceSearchServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/InvoiceServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/InvoiceServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/LawFirmServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/LawFirmServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/LawPayEventProcessorServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/LawPayEventProcessorServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/LawPayEventReceiverServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/LawPayEventReceiverServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/LawPayTransactionServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/LawPayTransactionServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/NoticeServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/NoticeServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/PaymentPlanServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/PaymentPlanServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/PersonImportTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/PersonImportTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/PersonMarriageHistoryServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/PersonMarriageHistoryServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/PersonSearchCriteriaTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/PersonSearchCriteriaTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/PersonServiceSSNTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/PersonServiceSSNTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/PreferenceResolverServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/PreferenceResolverServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/RelationshipServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/RelationshipServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/SearchServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/SearchServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/SendGridEmailRequestServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/SendGridEmailRequestServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/TextractServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/TextractServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/TranslateServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/TranslateServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/URLShortnerServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/URLShortnerServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/UserServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/commons/service/UserServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/lawpay/service/OAuthAccessTokenTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/lawpay/service/OAuthAccessTokenTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/quickbooks/service/OAuthServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/quickbooks/service/OAuthServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/quickbooks/service/QuickbooksInvoiceServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/commons/src/test/java/com/test/quickbooks/service/QuickbooksInvoiceServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/core/pom.xml" beforeDir="false" afterPath="$USER_HOME$/private/code/test/core/pom.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/core/src/main/java/com/test/commons/domain/Preference.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/core/src/main/java/com/test/commons/domain/Preference.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/jobs/src/main/java/com/test/jobs/service/DocumentReminderService.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/jobs/src/main/java/com/test/jobs/service/DocumentReminderService.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/jobs/src/main/java/com/test/jobs/service/InstallmentReminderService.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/jobs/src/main/java/com/test/jobs/service/InstallmentReminderService.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/jobs/src/test/java/DocumentReminderServiceTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/jobs/src/test/java/DocumentReminderServiceTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/lawyer-ui/src/test/java/com/test/lawyerui/controller/rest/DocumentRestControllerTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/lawyer-ui/src/test/java/com/test/lawyerui/controller/rest/DocumentRestControllerTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/lawyer-ui/src/test/java/com/test/lawyerui/controller/rest/InvoiceSearchRestControllerTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/lawyer-ui/src/test/java/com/test/lawyerui/controller/rest/InvoiceSearchRestControllerTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/lawyer-ui/src/test/java/com/test/lawyerui/controller/rest/NoteRestControllerTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/lawyer-ui/src/test/java/com/test/lawyerui/controller/rest/NoteRestControllerTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/lawyer-ui/src/test/java/com/test/lawyerui/controller/rest/PaymentRestControllerTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/lawyer-ui/src/test/java/com/test/lawyerui/controller/rest/PaymentRestControllerTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/lawyer-ui/src/test/java/com/test/lawyerui/controller/rest/PrePopulationMethodsVerificationTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/lawyer-ui/src/test/java/com/test/lawyerui/controller/rest/PrePopulationMethodsVerificationTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/private/code/test/lawyer-ui/src/test/java/com/test/lawyerui/controller/rest/UserRestControllerTest.java" beforeDir="false" afterPath="$USER_HOME$/private/code/test/lawyer-ui/src/test/java/com/test/lawyerui/controller/rest/UserRestControllerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <option name="in-editor-tabs" value="false" />
+    <option name="in-database-view" value="false" />
+    <option name="in-editor" value="true" />
+    <colors>
+      <entry key="772e20c6-081a-4ddd-8126-3cc9acd1b313" value="Blue" />
+      <entry key="case_task_config/camplegal_qa_db/1ca99466-b259-4a44-8bd0-805d35613666:TABLE" value="Forest" />
+    </colors>
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="1ca99466-b259-4a44-8bd0-805d35613666">
+        <node key="camplegal_qa_db" />
+      </node>
+    </checked>
+    <expanded>
+      <node key="1ca99466-b259-4a44-8bd0-805d35613666" />
+    </expanded>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$USER_HOME$/private/code/main" value="feature/new-websocket" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/private/code/main" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1PINsjmiGx4oG4ZgU7N2HOP2KeK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "database.data.extractors.current.export.id": "SQL Inserts",
+    "database.data.extractors.current.id": "SQL Inserts",
+    "last_opened_file_path": "/Users/cmouli",
+    "settings.editor.selected.configurable": "sql.code.style.group"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/private/code/test/DB" />
+      <recent name="$USER_HOME$/private/code/data-grip" />
+      <recent name="/Volumes/GoogleDrive/Shared drives/Customer OnBoarding/Francesca Data" />
+      <recent name="$USER_HOME$/private/code/test/commons/src/main/DB" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="release-3.8.0-custom-list.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$USER_HOME$/private/code/test/DB/release-3.8.0-custom-list.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.release-3.8.0-custom-list.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

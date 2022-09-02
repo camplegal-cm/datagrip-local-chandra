@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="karen-winston-db">
+  <database-model serializer="dbm" dbms="AZURE" family-id="AZURE" format-version="4.43">
+    <root id="1">
+      <Dbms>AZURE</Dbms>
+      <ServerVersion>12.0.2255</ServerVersion>
+    </root>
+    <database id="2" parent="1" name="karen-winston-db">
+      <Current>1</Current>
+      <Fingerprint>5.44518/70294267-46B7-4295-B3BC-6BAF850564DC@karenwinston</Fingerprint>
+      <Grants>5|database||1|connect|G</Grants>
+      <ObjectId>5</ObjectId>
+      <PermissionsCheckSum>1059020366</PermissionsCheckSum>
+      <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
+    </database>
+    <database id="3" parent="1" name="master">
+      <ObjectId>1</ObjectId>
+    </database>
+    <login id="4" parent="1" name="##MS_ServerStateReader##">
+      <Enabled>1</Enabled>
+      <ObjectId>11</ObjectId>
+      <Type>server-role</Type>
+    </login>
+    <login id="5" parent="1" name="##MS_ServerStateManager##">
+      <Enabled>1</Enabled>
+      <ObjectId>12</ObjectId>
+      <Type>server-role</Type>
+    </login>
+    <login id="6" parent="1" name="##MS_DefinitionReader##">
+      <Enabled>1</Enabled>
+      <ObjectId>13</ObjectId>
+      <Type>server-role</Type>
+    </login>
+    <role id="7" parent="2" name="public">
+      <AuthType>none</AuthType>
+      <ObjectId>0</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="8" parent="2" name="dbo">
+      <AuthType>instance</AuthType>
+      <DefaultSchema>dbo</DefaultSchema>
+      <ObjectId>1</ObjectId>
+    </role>
+    <role id="9" parent="2" name="guest">
+      <AuthType>none</AuthType>
+      <DefaultSchema>guest</DefaultSchema>
+      <ObjectId>2</ObjectId>
+    </role>
+    <role id="10" parent="2" name="INFORMATION_SCHEMA">
+      <AuthType>none</AuthType>
+      <ObjectId>3</ObjectId>
+    </role>
+    <role id="11" parent="2" name="sys">
+      <AuthType>none</AuthType>
+      <ObjectId>4</ObjectId>
+    </role>
+    <role id="12" parent="2" name="db_owner">
+      <AuthType>none</AuthType>
+      <ObjectId>16384</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="13" parent="2" name="db_accessadmin">
+      <AuthType>none</AuthType>
+      <ObjectId>16385</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="14" parent="2" name="db_securityadmin">
+      <AuthType>none</AuthType>
+      <ObjectId>16386</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="15" parent="2" name="db_ddladmin">
+      <AuthType>none</AuthType>
+      <ObjectId>16387</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="16" parent="2" name="db_backupoperator">
+      <AuthType>none</AuthType>
+      <ObjectId>16389</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="17" parent="2" name="db_datareader">
+      <AuthType>none</AuthType>
+      <ObjectId>16390</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="18" parent="2" name="db_datawriter">
+      <AuthType>none</AuthType>
+      <ObjectId>16391</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="19" parent="2" name="db_denydatareader">
+      <AuthType>none</AuthType>
+      <ObjectId>16392</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="20" parent="2" name="db_denydatawriter">
+      <AuthType>none</AuthType>
+      <ObjectId>16393</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <schema id="21" parent="2" name="INFORMATION_SCHEMA">
+      <ObjectId>3</ObjectId>
+    </schema>
+    <schema id="22" parent="2" name="db_accessadmin">
+      <ObjectId>16385</ObjectId>
+    </schema>
+    <schema id="23" parent="2" name="db_backupoperator">
+      <ObjectId>16389</ObjectId>
+    </schema>
+    <schema id="24" parent="2" name="db_datareader">
+      <ObjectId>16390</ObjectId>
+    </schema>
+    <schema id="25" parent="2" name="db_datawriter">
+      <ObjectId>16391</ObjectId>
+    </schema>
+    <schema id="26" parent="2" name="db_ddladmin">
+      <ObjectId>16387</ObjectId>
+    </schema>
+    <schema id="27" parent="2" name="db_denydatareader">
+      <ObjectId>16392</ObjectId>
+    </schema>
+    <schema id="28" parent="2" name="db_denydatawriter">
+      <ObjectId>16393</ObjectId>
+    </schema>
+    <schema id="29" parent="2" name="db_owner">
+      <ObjectId>16384</ObjectId>
+    </schema>
+    <schema id="30" parent="2" name="db_securityadmin">
+      <ObjectId>16386</ObjectId>
+    </schema>
+    <schema id="31" parent="2" name="dbo">
+      <Current>1</Current>
+      <IntrospectionTimestamp>2021-11-19.22:47:21.550</IntrospectionTimestamp>
+      <ObjectId>1</ObjectId>
+    </schema>
+    <schema id="32" parent="2" name="guest">
+      <ObjectId>2</ObjectId>
+    </schema>
+    <schema id="33" parent="2" name="sys">
+      <ObjectId>4</ObjectId>
+    </schema>
+  </database-model>
+</dataSource>

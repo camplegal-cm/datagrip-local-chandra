@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="karen2.database.windows.net">
+  <database-model serializer="dbm" dbms="AZURE" family-id="AZURE" format-version="4.43">
+    <root id="1">
+      <Dbms>AZURE</Dbms>
+    </root>
+    <database id="2" parent="1" name="karen2">
+      <Current>1</Current>
+      <Fingerprint>5.44519/A33F01D0-9E7F-4D55-9D8A-18E3E3693B9D@karen2</Fingerprint>
+      <Grants>5|database||1|connect|G</Grants>
+      <ObjectId>5</ObjectId>
+      <PermissionsCheckSum>1059020366</PermissionsCheckSum>
+      <CollationName>SQL_Latin1_General_CP1_CI_AS</CollationName>
+    </database>
+    <database id="3" parent="1" name="master">
+      <Fingerprint>1.44518/4720E9D8-4E37-46D3-8130-3D0F2C1EFB32@karenwinston</Fingerprint>
+      <Grants>1|database||5|alter any user|O
+1|database||1|connect|G
+1|database||5|connect|G
+6|role||5|alter|O
+7|role||5|alter|O</Grants>
+      <ObjectId>1</ObjectId>
+      <PermissionsCheckSum>6783918165</PermissionsCheckSum>
+    </database>
+    <login id="4" parent="1" name="##MS_DefinitionReader##">
+      <Enabled>1</Enabled>
+      <ObjectId>13</ObjectId>
+      <Type>server-role</Type>
+    </login>
+    <login id="5" parent="1" name="##MS_ServerStateManager##">
+      <Enabled>1</Enabled>
+      <ObjectId>12</ObjectId>
+      <Type>server-role</Type>
+    </login>
+    <login id="6" parent="1" name="##MS_ServerStateReader##">
+      <Enabled>1</Enabled>
+      <ObjectId>11</ObjectId>
+      <Type>server-role</Type>
+    </login>
+    <login id="7" parent="1" name="##MS_AlterAnySQLPool##">
+      <DefaultDatabase>master</DefaultDatabase>
+      <Enabled>1</Enabled>
+      <ObjectId>514</ObjectId>
+      <Type>server-role</Type>
+    </login>
+    <login id="8" parent="1" name="##MS_ConnectAnySQLPool##">
+      <DefaultDatabase>master</DefaultDatabase>
+      <Enabled>1</Enabled>
+      <ObjectId>512</ObjectId>
+      <Type>server-role</Type>
+    </login>
+    <login id="9" parent="1" name="##MS_CreateSQLPool##">
+      <DefaultDatabase>master</DefaultDatabase>
+      <Enabled>1</Enabled>
+      <ObjectId>513</ObjectId>
+      <Type>server-role</Type>
+    </login>
+    <login id="10" parent="1" name="##MS_DropAnySQLPool##">
+      <DefaultDatabase>master</DefaultDatabase>
+      <Enabled>1</Enabled>
+      <ObjectId>515</ObjectId>
+      <Type>server-role</Type>
+    </login>
+    <role id="11" parent="2" name="INFORMATION_SCHEMA">
+      <AuthType>none</AuthType>
+      <ObjectId>3</ObjectId>
+    </role>
+    <role id="12" parent="2" name="db_accessadmin">
+      <AuthType>none</AuthType>
+      <ObjectId>16385</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="13" parent="2" name="db_backupoperator">
+      <AuthType>none</AuthType>
+      <ObjectId>16389</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="14" parent="2" name="db_datareader">
+      <AuthType>none</AuthType>
+      <ObjectId>16390</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="15" parent="2" name="db_datawriter">
+      <AuthType>none</AuthType>
+      <ObjectId>16391</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="16" parent="2" name="db_ddladmin">
+      <AuthType>none</AuthType>
+      <ObjectId>16387</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="17" parent="2" name="db_denydatareader">
+      <AuthType>none</AuthType>
+      <ObjectId>16392</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="18" parent="2" name="db_denydatawriter">
+      <AuthType>none</AuthType>
+      <ObjectId>16393</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="19" parent="2" name="db_owner">
+      <AuthType>none</AuthType>
+      <ObjectId>16384</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="20" parent="2" name="db_securityadmin">
+      <AuthType>none</AuthType>
+      <ObjectId>16386</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="21" parent="2" name="dbo">
+      <AuthType>instance</AuthType>
+      <DefaultSchema>dbo</DefaultSchema>
+      <ObjectId>1</ObjectId>
+    </role>
+    <role id="22" parent="2" name="guest">
+      <AuthType>none</AuthType>
+      <DefaultSchema>guest</DefaultSchema>
+      <ObjectId>2</ObjectId>
+    </role>
+    <role id="23" parent="2" name="public">
+      <AuthType>none</AuthType>
+      <ObjectId>0</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="24" parent="2" name="sys">
+      <AuthType>none</AuthType>
+      <ObjectId>4</ObjectId>
+    </role>
+    <schema id="25" parent="2" name="INFORMATION_SCHEMA">
+      <ObjectId>3</ObjectId>
+    </schema>
+    <schema id="26" parent="2" name="db_accessadmin">
+      <IntrospectionTimestamp>2021-11-20.10:56:02.990</IntrospectionTimestamp>
+      <ObjectId>16385</ObjectId>
+    </schema>
+    <schema id="27" parent="2" name="db_backupoperator">
+      <IntrospectionTimestamp>2021-11-20.10:56:03.090</IntrospectionTimestamp>
+      <ObjectId>16389</ObjectId>
+    </schema>
+    <schema id="28" parent="2" name="db_datareader">
+      <IntrospectionTimestamp>2021-11-20.10:56:03.180</IntrospectionTimestamp>
+      <ObjectId>16390</ObjectId>
+    </schema>
+    <schema id="29" parent="2" name="db_datawriter">
+      <IntrospectionTimestamp>2021-11-20.10:56:03.280</IntrospectionTimestamp>
+      <ObjectId>16391</ObjectId>
+    </schema>
+    <schema id="30" parent="2" name="db_ddladmin">
+      <IntrospectionTimestamp>2021-11-20.10:56:03.367</IntrospectionTimestamp>
+      <ObjectId>16387</ObjectId>
+    </schema>
+    <schema id="31" parent="2" name="db_denydatareader">
+      <IntrospectionTimestamp>2021-11-20.10:56:03.457</IntrospectionTimestamp>
+      <ObjectId>16392</ObjectId>
+    </schema>
+    <schema id="32" parent="2" name="db_denydatawriter">
+      <IntrospectionTimestamp>2021-11-20.10:56:03.543</IntrospectionTimestamp>
+      <ObjectId>16393</ObjectId>
+    </schema>
+    <schema id="33" parent="2" name="db_owner">
+      <IntrospectionTimestamp>2021-11-20.10:56:03.637</IntrospectionTimestamp>
+      <ObjectId>16384</ObjectId>
+    </schema>
+    <schema id="34" parent="2" name="db_securityadmin">
+      <IntrospectionTimestamp>2021-11-20.10:56:03.727</IntrospectionTimestamp>
+      <ObjectId>16386</ObjectId>
+    </schema>
+    <schema id="35" parent="2" name="dbo">
+      <Current>1</Current>
+      <IntrospectionTimestamp>2021-11-20.10:56:03.817</IntrospectionTimestamp>
+      <ObjectId>1</ObjectId>
+    </schema>
+    <schema id="36" parent="2" name="guest">
+      <IntrospectionTimestamp>2021-11-20.10:56:03.900</IntrospectionTimestamp>
+      <ObjectId>2</ObjectId>
+    </schema>
+    <schema id="37" parent="2" name="sys">
+      <Grants>-632|||0|select|G
+-631|||0|select|G
+-630|||0|select|G
+-629|||0|select|G
+-626|||0|select|G
+-625|||0|select|G
+-624|||0|select|G
+-623|||0|select|G
+-622|||0|select|G
+-621|||0|select|G
+-620|||0|select|G
+-617|||0|select|G
+-616|||0|select|G
+-606|||0|select|G
+-603|||0|select|G
+-602|||0|select|G
+-601|||0|select|G
+-599|||0|select|G
+-598|||0|select|G
+-596|||0|select|G
+-589|||0|select|G
+-588|||0|select|G
+-587|||0|select|G
+-586|||0|select|G
+-585|||0|select|G
+-584|||0|select|G
+-583|||0|select|G
+-582|||0|select|G
+-581|||0|select|G
+-580|||0|select|G
+-572|||0|select|G
+-571|||0|select|G
+-570|||0|select|G
+-569|||0|select|G
+-568|||0|select|G
+-567|||0|select|G
+-566|||0|select|G
+-565|||0|select|G
+-564|||0|select|G
+-563|||0|select|G
+-562|||0|select|G
+-561|||0|select|G
+-560|||0|select|G
+-559|||0|select|G
+-558|||0|select|G
+-557|||0|select|G
+-551|||0|select|G
+-550|||0|select|G
+-549|||0|select|G
+-541|||0|select|G
+-540|||0|select|G
+-539|||0|select|G
+-538|||0|select|G
+-537|||0|select|G
+-536|||0|select|G
+-535|||0|select|G
+-533|||0|select|G
+-532|||0|select|G
+-531|||0|select|G
+-530|||0|select|G
+-529|||0|select|G
+-528|||0|select|G
+-527|||0|select|G
+-526|||0|select|G
+-525|||0|select|G
+-524|||0|select|G
+-519|||0|select|G
+-518|||0|select|G
+-517|||0|select|G
+-516|||0|select|G
+-515|||0|select|G
+-514|||0|select|G
+-513|||0|select|G
+-505|||0|select|G
+-504|||0|select|G
+-503|||0|select|G
+-502|||0|select|G
+-501|||0|select|G
+-500|||0|select|G
+-499|||0|select|G
+-498|||0|select|G
+-497|||0|select|G
+-496|||0|select|G
+-494|||0|select|G
+-489|||0|select|G
+-485|||0|select|G
+-484|||0|select|G
+-483|||0|select|G
+-482|||0|select|G
+-481|||0|select|G
+-480|||0|select|G
+-479|||0|select|G
+-478|||0|select|G
+-477|||0|select|G
+-476|||0|select|G
+-469|||0|select|G
+-468|||0|select|G
+-467|||0|select|G
+-466|||0|select|G
+-465|||0|select|G
+-464|||0|select|G
+-463|||0|select|G
+-462|||0|select|G
+-461|||0|select|G
+-460|||0|select|G
+-459|||0|select|G
+-458|||0|select|G
+-457|||0|select|G
+-456|||0|select|G
+-455|||0|select|G
+-454|||0|select|G
+-453|||0|select|G
+-452|||0|select|G
+-451|||0|select|G
+-450|||0|select|G
+-449|||0|select|G
+-448|||0|select|G
+-447|||0|select|G
+-446|||0|select|G
+-445|||0|select|G
+-444|||0|select|G
+-443|||0|select|G
+-442|||0|select|G
+-441|||0|select|G
+-440|||0|select|G
+-439|||0|select|G
+-438|||0|select|G
+-437|||0|select|G
+-436|||0|select|G
+-435|||0|select|G
+-434|||0|select|G
+-433|||0|select|G
+-432|||0|select|G
+-431|||0|select|G
+-430|||0|select|G
+-429|||0|select|G
+-428|||0|select|G
+-426|||0|select|G
+-425|||0|select|G
+-424|||0|select|G
+-423|||0|select|G
+-422|||0|select|G
+-421|||0|select|G
+-420|||0|select|G
+-419|||0|select|G
+-418|||0|select|G
+-417|||0|select|G
+-416|||0|select|G
+-415|||0|select|G
+-414|||0|select|G
+-413|||0|select|G
+-412|||0|select|G
+-411|||0|select|G
+-410|||0|select|G
+-409|||0|select|G
+-408|||0|select|G
+-407|||0|select|G
+-406|||0|select|G
+-405|||0|select|G
+-404|||0|select|G
+-403|||0|select|G
+-402|||0|select|G
+-401|||0|select|G
+-400|||0|select|G
+-399|||0|select|G
+-398|||0|select|G
+-397|||0|select|G
+-396|||0|select|G
+-395|||0|select|G
+-394|||0|select|G
+-393|||0|select|G
+-392|||0|select|G
+-391|||0|select|G
+-390|||0|select|G
+-389|||0|select|G
+-388|||0|select|G
+-387|||0|select|G
+-386|||0|select|G
+-385|||0|select|G
+-143|||0|select|G
+-142|||0|select|G
+-141|||0|select|G
+-140|||0|select|G
+-139|||0|select|G
+-138|||0|select|G
+-137|||0|select|G
+-136|||0|select|G
+-135|||0|select|G
+-134|||0|select|G
+-133|||0|select|G
+-132|||0|select|G
+-131|||0|select|G
+-130|||0|select|G
+-129|||0|select|G
+-107|||0|select|G
+-106|||0|select|G
+-105|||0|select|G
+-104|||0|select|G
+-103|||0|select|G
+-102|||0|select|G
+-101|||0|select|G
+901578250|||0|select|G
+933578364|||0|select|G</Grants>
+      <ObjectId>4</ObjectId>
+      <PermissionsCheckSum>428893987383</PermissionsCheckSum>
+    </schema>
+  </database-model>
+</dataSource>
